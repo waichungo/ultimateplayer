@@ -1,2 +1,0 @@
-# ultimateplayer
-Media player application
